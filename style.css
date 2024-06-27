@@ -202,6 +202,7 @@ footer{
     display: block;
     font-size: .85rem;
     margin-top: 15px;
+    text-decoration: none;
     color: #dddddd;
 }
 .cont2 ul{
